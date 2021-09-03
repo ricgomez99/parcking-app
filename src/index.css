@@ -1,13 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  margin: auto;
+  justify-content: space-between;
+  padding: 0 0 0 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+label {
+  width: 100%;
+  font-size: 14px;
+  color: #000000;
+}
+
+.grupo {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.MuiInputBase-input.MuiInput-input {
+  text-align: center;
+  padding: 20px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.clickable {
+  cursor: pointer;
 }
