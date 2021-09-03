@@ -2,6 +2,7 @@
   "name": "parcking",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://ricgomez99.github.io/parcking-app",
   "dependencies": {
     "@date-io/date-fns": "^1.3.13",
     "@material-ui/core": "^4.12.3",
@@ -14,6 +15,7 @@
     "axios": "^0.21.1",
     "bootstrap": "^5.1.0",
     "date-fns": "^2.23.0",
+    "gh-pages": "^3.2.3",
     "joi": "^17.4.2",
     "joi-browser": "^13.4.0",
     "lodash": "^4.17.21",
@@ -27,6 +29,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
