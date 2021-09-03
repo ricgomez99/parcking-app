@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/parcking-app/static/css/main.394ff2fe.chunk.css",
+    "main.js": "/parcking-app/static/js/main.bad28eb8.chunk.js",
+    "main.js.map": "/parcking-app/static/js/main.bad28eb8.chunk.js.map",
+    "runtime-main.js": "/parcking-app/static/js/runtime-main.5bb0d16f.js",
+    "runtime-main.js.map": "/parcking-app/static/js/runtime-main.5bb0d16f.js.map",
+    "static/css/2.818011ed.chunk.css": "/parcking-app/static/css/2.818011ed.chunk.css",
+    "static/js/2.52706052.chunk.js": "/parcking-app/static/js/2.52706052.chunk.js",
+    "static/js/2.52706052.chunk.js.map": "/parcking-app/static/js/2.52706052.chunk.js.map",
+    "static/js/3.fa2297df.chunk.js": "/parcking-app/static/js/3.fa2297df.chunk.js",
+    "static/js/3.fa2297df.chunk.js.map": "/parcking-app/static/js/3.fa2297df.chunk.js.map",
+    "index.html": "/parcking-app/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/parcking-app/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.394ff2fe.chunk.css.map": "/parcking-app/static/css/main.394ff2fe.chunk.css.map",
+    "static/js/2.52706052.chunk.js.LICENSE.txt": "/parcking-app/static/js/2.52706052.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bb0d16f.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.52706052.chunk.js",
+    "static/css/main.394ff2fe.chunk.css",
+    "static/js/main.bad28eb8.chunk.js"
+  ]
+}
